@@ -5,7 +5,7 @@
 </p>
 
 ### 👩‍💻 About Me
-I am a **Recent B.Tech graduate in AI and Data Science** and an aspiring Full Stack Developer. I am passionate about solving problems and building tools that make life easier.
+A **recent B.Tech graduate in AI and Data Science** and an aspiring Full Stack Developer. I am passionate about solving problems and building tools that make life easier.
 
 - 🔭 **I’m currently:** Pursuing my B.Tech in AI & DS.
 - 🌱 **Learning:** Full Stack Development & Advanced Python.
