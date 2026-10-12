@@ -7,9 +7,10 @@
 ### 👩‍💻 About Me
 A **recent B.Tech graduate in AI and Data Science** and an aspiring Full Stack Developer. I am passionate about solving problems and building tools that make life easier.
 
-- 🔭 **I’m currently:** Pursuing my B.Tech in AI & DS.
-- 🌱 **Learning:** Full Stack Development & Advanced Python.
-- 💬 **Ask me about:** Artificial Intelligence or Web Technologies.
+- 🎓 **Education:** Graduated with a B.Tech in AI & Data Science.
+- 🔭 **I'm currently:** Building my skills as a Full Stack Developer.
+- 🌱 **Learning:** Django & Django REST Framework, REST API design, authentication and permissions, Git & GitHub.
+- 💬 **Ask me about:** Artificial Intelligence, Python, or Web Technologies.
 - 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/aneena-m-s-/)
 
 ---
